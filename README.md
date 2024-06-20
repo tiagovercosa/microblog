@@ -1,2 +1,3 @@
-# microblog
-HTML at the my blog
+# My Micro.blog
+
+Code structure of the my blog.
